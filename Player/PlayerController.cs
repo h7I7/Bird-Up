@@ -1,5 +1,5 @@
 ﻿//////////////////////////////////////////////////
-//// Author:        Zack Raeburn
+//// Author:        Lily Raeburn
 //// Description:   A player controller for launching the bird and drawing a trajectory
 //// Date created:  22/02/2018
 //////////////////////////////////////////////////

@@ -1,6 +1,6 @@
 ﻿//\===========================================================================================
 //\ File: Shapes.cs
-//\ Author: Zack Raeburn for the research into deep copying and applying it to everything on the player but the shape.
+//\ Author: Lily Raeburn for the research into deep copying and applying it to everything on the player but the shape.
 //\ Author: Morgan James for the bit manipulation to do with the save state of the model.
 //\ Brief: Changes the background in accordance with the shop and unlocks.
 //\===========================================================================================
